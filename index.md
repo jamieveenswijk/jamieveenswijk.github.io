@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 [LinkedIn](https://www.linkedin.com/in/jamie-veenswijk-501799100/).
 
