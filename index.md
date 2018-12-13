@@ -1,13 +1,9 @@
 # Projects
 
-###### Header 6
 
 | Project      | Date             | Status |
 |:-------------|:------------------|:------|
 | [Stage Verslag](https://git.osl.frl/JVeenswijk/Stage-verslag/blob/master/verslag.md) | Feb - Jul 2018 | Finished  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 
 ### Code
