@@ -39,18 +39,22 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Jamie Veenswij</dd>
+<dd>Jamie Veenswijk</dd>
 <dt>Born</dt>
 <dd>1996</dd>
 <dt>Birthplace</dt>
-<dd>Amsterdam</dd>
+<dd>Sneek</dd>
 <dt>Color</dt>
 <dd>Blue</dd>
 </dl>
 
 ### Social Media
 
-[LinkedIn](https://www.linkedin.com/in/jamie-veenswijk-501799100/).
-[Twitter](https://www.twiter.com/jamiejeerus)
-[Facebook](https://www.facebook.com/JamieJeerus)
-[Twitch](https://www.twitch.tv/jeerus)
+[LinkedIn](https://www.linkedin.com/in/jamie-veenswijk-501799100/).  
+
+[Twitter](https://www.twiter.com/jamiejeerus).  
+
+[Facebook](https://www.facebook.com/JamieJeerus).  
+
+[Twitch](https://www.twitch.tv/jeerus).  
+
