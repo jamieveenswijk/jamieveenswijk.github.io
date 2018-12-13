@@ -1,6 +1,5 @@
 
 
-[LinkedIn](https://www.linkedin.com/in/jamie-veenswijk-501799100/).
 
 
 
@@ -80,16 +79,14 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### Information
 
 <dl>
 <dt>Name</dt>
@@ -101,3 +98,10 @@ end
 <dt>Color</dt>
 <dd>Blue</dd>
 </dl>
+
+### Social Media
+
+[LinkedIn](https://www.linkedin.com/in/jamie-veenswijk-501799100/).
+[Twitter](https://www.twiter.com/jamiejeerus)
+[Facebook](https://www.facebook.com/JamieJeerus)
+[Twitch](https://www.twitch.tv/jeerus)
