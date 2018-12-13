@@ -3,7 +3,7 @@
 
 | Project      | Date             | Status |
 |:-------------|:------------------|:------|
-| [Stage Verslag](https://git.osl.frl/JVeenswijk/Stage-verslag/blob/master/verslag.md) | Feb - Jul 2018 | Finished  |
+| [Stage Verslag](https://git.osl.frl/JVeenswijk/Stage-verslag/tree/master) | Feb - Jul 2018 | Finished  |
 
 
 ### Code
