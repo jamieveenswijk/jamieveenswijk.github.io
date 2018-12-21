@@ -51,7 +51,7 @@ Run this on a Linux distro as root in your terminal.
 
 [LinkedIn](https://www.linkedin.com/in/jamie-veenswijk-501799100/).  
 
-[Twitter](https://www.twiter.com/jamiejeerus).  
+[Twitter](https://twitter.com/JamieJeerus).  
 
 [Facebook](https://www.facebook.com/JamieJeerus).  
 
