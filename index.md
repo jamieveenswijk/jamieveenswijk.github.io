@@ -5,7 +5,7 @@
 |:----------------------------------------------------------------------------------------------|:--------------:|:---------|
 | [Stage Verslag](https://git.osl.frl/JVeenswijk/Stage-verslag/tree/master) 			| Feb - Jul 2018 | Finished |
 | [Dropbox CLI](https://github.com/jamieveenswijk/Dropbox-CLI) 					| Feb 2019	 | Finished |
-| [Prodist Web Interface(https://github.com/jamieveenswijk/Werkplan-Prodist-Web-Interface)	| Jan -  2019	 | Active   |
+| [Prodist Web Interface](https://github.com/jamieveenswijk/Werkplan-Prodist-Web-Interface)	| Jan -  2019	 | Active   |
 
 
 ### Code
