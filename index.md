@@ -4,7 +4,7 @@
 | Project      											| Date		 | Status   |
 |:----------------------------------------------------------------------------------------------|:--------------:|:---------|
 | [Dropbox CLI](https://github.com/jamieveenswijk/Dropbox-CLI) 					| Feb -	 2019	 | Finished |
-| [Prodist Web Based ERP](https://github.com/jamieveenswijk/Web-Based-ProdistERP)		| Dec -  2019	 | Active   |
+| [Prodist Web Based ERP](https://github.com/jamieveenswijk/Web-Based-ProdistERP)		| Dec -  2019	 | Finished |
 | [Stage Verslag WildICT](https://git.osl.frl/JVeenswijk/Stage-verslag/blob/master/verslag.md) 	| Feb -	 2019	 | Finished |
 
 
